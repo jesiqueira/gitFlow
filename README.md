@@ -37,3 +37,7 @@ git flow release finish _version_da_release
 
 corrigir 
 sudo dpkg --configure -a
+
+
+### configurar vscode global
+- https://uw-madison-aci.github.io/git-novice/02-setup/
