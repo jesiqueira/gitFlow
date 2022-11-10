@@ -41,3 +41,7 @@ sudo dpkg --configure -a
 
 ### configurar vscode global
 - https://uw-madison-aci.github.io/git-novice/02-setup/
+
+### link sobre Git flow
+- https://www.youtube.com/watch?v=394mc6PV8t8
+  
