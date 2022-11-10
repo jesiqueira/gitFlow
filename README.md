@@ -1,5 +1,7 @@
 # Git Flow
 ---
+Esse repositório é somente para estudar o Git Flow
+---
 
 ## Instalar Git flow
 - sudo apt install git-flow
